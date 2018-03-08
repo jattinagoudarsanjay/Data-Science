@@ -1,2 +1,3 @@
 # Data-Science
-Self learnt data science materials and projects
+
+Self learnt data science Topics, materials and projects.
